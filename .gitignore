@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Signing keys (keystore + credentials) - do NOT commit
+/calculator.keystore
+/keystore.properties
